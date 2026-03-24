@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=rem
+Description=spinningrem
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/rem/
+ScriptFile=/usr/share/plymouth/themes/rem/animated-boot.script
